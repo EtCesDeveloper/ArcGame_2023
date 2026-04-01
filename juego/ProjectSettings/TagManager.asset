@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Potion
+  - Obstaculo
+  - Enemigo
+  - Esqueleto
+  - Seta
+  - Seta1
+  - Esqueleto1
+  - Boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Collectables
+  - 
+  - 
+  - 
+  - Enemigos
+  - 
+  - 
+  - 
+  - 
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - Level Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Decorations
+    uniqueID: 1671971503
+    locked: 0
+  - name: layer1
+    uniqueID: 760112817
+    locked: 0
+  - name: Layer2
+    uniqueID: 403997745
+    locked: 0
+  - name: Foreground
+    uniqueID: 1807025855
+    locked: 0
+  - name: Fondo
+    uniqueID: 1174513581
+    locked: 0
+  - name: Background
+    uniqueID: 4064393937
+    locked: 0
+  - name: Items
+    uniqueID: 514347369
+    locked: 0
+  - name: Player
+    uniqueID: 1872159181
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: No Lights
+    uniqueID: 1245366325
+    locked: 0
